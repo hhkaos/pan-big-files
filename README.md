@@ -1,4 +1,6 @@
-# pan-image-leaflet
+# pan-big-files
+
+## Images
 
 Based on [Greg Kempe gist](https://gist.github.com/longhotsummer/ba9c96bb2abb304e4095ce00df17ae2f)
 
